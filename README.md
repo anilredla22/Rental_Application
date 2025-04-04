@@ -45,7 +45,10 @@ The project structured as follows
 
 ---
 **Technologies Used**
-**• Backend:** Spring Boot framework with Java
+**• Backend:** Spring Boot framework with Java 
+
 **• Database:** MySQL for data storage
+
 **• Authentication:** Spring Security for secure user authentication and authorization
+
 **• API:** RESTful APIs for communication between frontend and backend
