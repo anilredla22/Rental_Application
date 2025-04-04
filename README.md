@@ -43,7 +43,7 @@ The project structured as follows
 - `TenantRepository.java`  
 - `UserRepository.java`  
 
----
+
 **Technologies Used**
 **• Backend:** Spring Boot framework with Java 
 
